@@ -1,5 +1,5 @@
 
-*ChatBuddy28 Website*
+ChatBuddy28 Website
 
 Welcome to the official website of ChatBuddy28, your intelligent virtual companion! ChatBuddy28 is designed to engage in friendly conversations, offering assistance and a touch of humor. This website provides information about the bot, its features, and how to interact with it.
 
